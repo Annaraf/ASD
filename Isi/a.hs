@@ -1,6 +1,6 @@
 module A where
 import Data.List
-
+adad
 -- 41/57
 
 --------selau-------men-----------------------
